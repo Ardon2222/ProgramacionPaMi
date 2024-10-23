@@ -2,7 +2,7 @@ package Trabajo;
 
 import java.util.*;
 
-public class Sprint3_p1 {
+public class ElenchevG_Sprint3_p1 {
     public static void main(String[] args) {
 
         //Inicializacion de constantes
